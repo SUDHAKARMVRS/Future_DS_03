@@ -126,7 +126,3 @@ Sudhakar M
 Aspiring Data & Growth Analyst  
 
 
-
-
-## 📁 Project Structure
-
